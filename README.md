@@ -15,6 +15,11 @@ docker-compose up
 
 Step 5:
 to access the web ui for the databse: http://localhost:8080/
+Datenbank System: PostgreSQL
+Server: database
+Benutzer: admin
+Password: password
+Datenbank: split_db
 
 Step 6: 
 check the conn url in code: 'postgresql+psycopg2://admin:password@localhost/split_db'
